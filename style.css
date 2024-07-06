@@ -1,0 +1,110 @@
+.box {
+    width: 250px;
+}
+
+.link {
+    color: black;
+}
+
+.btn {
+    color: white;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#text {
+    width: 340px;
+    height: 174px;
+}
+
+.text {
+    position: absolute;
+    margin-left: 5px;
+    padding: 20px;
+    top: 10px;
+    margin: 5px;
+    color: black;
+
+}
+
+#text1 {
+    width: 340px;
+    height: 130px;
+
+
+}
+
+.card {
+    border: none;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+ul a {
+
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+    padding: 5px;
+}
+
+ul li {
+    padding: 3px;
+    text-decoration: none;
+}
+
+.searchbar {
+    width: 400px;
+    border-radius: 50px;
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.login {
+    background-color: white;
+    width: 80px;
+    padding: 5px;
+}
+
+.sign {
+    background-color: black;
+    width: 80px;
+    color: white;
+    width: 80px;
+    padding: 5px;
+}
+
+.logobt {
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+#but {
+    border: 1px solid black;
+    padding: 8px;
+    margin-left: 90px;
+    width: 250px;
+}
+
+.heading {
+    margin-left: 100px;
+}
+
+.flexbox a {
+    font-weight: bold;
+}
